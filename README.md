@@ -1,6 +1,6 @@
 # Projetos de Microcontroladores
 
-Este repositório contém os projetos desenvolvidos durante as aulas de **Microcontroladores**, com o objetivo de aprofundar o entendimento sobre a estrutura, funcionamento e programação de microcontroladores. Os exercícios e o projeto final foram desenvolvidos utilizando a linguagem **C++** (padrão da plataforma Arduino) na **IDE do Arduino**.
+Os projetos foram desenvolvidos durante as minhas aulas de Microcontroladores, utilizando a linguagem **C para microcontroladores AVR**, com o objetivo de entender a estrutura interna e o funcionamento dos periféricos (como ADCs, PWM e registradores). A maioria dos códigos foi escrita diretamente em C, sem uso de bibliotecas de alto nível, e compilada para placas como o ATmega328P (Arduino UNO), utilizando a **IDE do Arduino** ou ambientes como Atmel Studio.
 
 ## Descrição
 
