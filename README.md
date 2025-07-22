@@ -18,13 +18,8 @@ Durante o curso, foram realizados:
 - **IDE:** [Arduino IDE](https://www.arduino.cc/en/software)
 
 ## Organização do Repositório
-microcontroladores/
-├── Exercicios/
-│ ├── Aula 4/
-│ ├── Aula 5/
-│ └── ...
-├── ProjetoFinal/
-└── README.md
+- `Exercicios/`: Projetos desenvolvidos em aula.
+- `ProjetoFinal/`: Projeto integrador feito ao final da disciplina, utilizando múltiplos conceitos vistos em aula
 
 ## Como Executar
 
