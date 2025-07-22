@@ -1,6 +1,6 @@
 # Projetos de Microcontroladores
 
-Os projetos foram desenvolvidos durante as minhas aulas de Microcontroladores, utilizando a linguagem **C para microcontroladores AVR**, com o objetivo de entender a estrutura interna e o funcionamento dos periféricos (como ADCs, PWM e registradores). A maioria dos códigos foi escrita diretamente em C, sem uso de bibliotecas de alto nível, e compilada para placas como o ATmega328P (Arduino UNO), utilizando a **IDE do Arduino** ou ambientes como Atmel Studio.
+Os projetos foram desenvolvidos durante as minhas aulas de Microcontroladores, utilizando a linguagem **C para microcontroladores AVR**, com o objetivo de entender a estrutura interna e o funcionamento dos periféricos (como ADCs, PWM e registradores). A maioria dos códigos foi escrita diretamente em C, sem uso de bibliotecas de alto nível, e compilada para placas como o ATmega328P (Arduino UNO), utilizando a **IDE do Arduino**.
 
 ## Descrição
 
